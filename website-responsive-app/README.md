@@ -38,6 +38,6 @@ Deployed [here](https://holux-website.netlify.app/).
 
 [![License](http://img.shields.io/:license-mit-green.svg?style=flat-square)](http://badges.mit-license.org)
 
-- **[MIT license](https://github.com/GabrielFraga962/Spotify_Api_Clone/blob/main/LICENSE)**;
+- **[MIT license](https://github.com/GabrielFraga962/Website_Design_Using_HTML_CSS_JavaScript/blob/main/LICENSE)**;
 - Copyright 2022 © <a href="https://github.com/GabrielFraga962" target="_blank">Gabriel S. Fraga</a>.
 
