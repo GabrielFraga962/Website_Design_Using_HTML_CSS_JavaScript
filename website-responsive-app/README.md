@@ -17,7 +17,7 @@ This repo contains an UI clone from Tesla homepage.
 
 <br>
 
-Deployed [here](https://tesla-homepage-app-clone.netlify.app/).
+Deployed [here](https://holux-website.netlify.app/).
 
 <br>
 
