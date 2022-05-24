@@ -11,3 +11,33 @@
 
 ---
 
+## Project :star2:
+
+This repo contains an UI clone from Tesla homepage.
+
+<br>
+
+Deployed [here](https://tesla-homepage-app-clone.netlify.app/).
+
+<br>
+
+## The project 🖼️
+
+<p align="center">
+  <img src="https://imgur.com/kKlBKP6.png" alt="Banner do projeto"/>
+</p>
+
+## Techs :rocket:
+- [x] [BoxIcons](https://boxicons.com/);
+- [x] [Swiper-api](https://swiperjs.com/swiper-api).
+
+<br>
+
+
+## License :memo:
+
+[![License](http://img.shields.io/:license-mit-green.svg?style=flat-square)](http://badges.mit-license.org)
+
+- **[MIT license](https://github.com/GabrielFraga962/Spotify_Api_Clone/blob/main/LICENSE)**;
+- Copyright 2022 © <a href="https://github.com/GabrielFraga962" target="_blank">Gabriel S. Fraga</a>.
+
