@@ -13,7 +13,7 @@
 
 ## Project :star2:
 
-This repo contains an UI clone from Tesla homepage.
+This repo contains an  Responsive Real State Website Using HTML CSS & JavaScript.
 
 <br>
 
